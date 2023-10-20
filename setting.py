@@ -1,0 +1,12 @@
+batch_size = 128
+epochs = 300
+input_size = 112
+lr = 1e-4
+train_path = "data/train"
+test_path = "data/test"
+model_path = 'model/my_model.h5'
+upload_path = 'upload/upload.jpg'
+video_path = 'upload/upload.mp4'
+api_port = 5000
+model_port = 2442
+threshold = 0.5
